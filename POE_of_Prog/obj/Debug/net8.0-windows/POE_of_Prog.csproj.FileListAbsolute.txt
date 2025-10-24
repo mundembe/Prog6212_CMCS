@@ -118,3 +118,4 @@ D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\
 D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.pdb
 D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.genruntimeconfig.cache
 D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\ref\POE_of_Prog.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.sourcelink.json
