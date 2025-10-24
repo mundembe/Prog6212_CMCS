@@ -67,7 +67,7 @@
             button1.Name = "button1";
             button1.Size = new Size(100, 29);
             button1.TabIndex = 2;
-            button1.Text = "Press";
+            button1.Text = "Enter";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -88,7 +88,7 @@
             button2.Name = "button2";
             button2.Size = new Size(100, 27);
             button2.TabIndex = 4;
-            button2.Text = "Press";
+            button2.Text = "Enter";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
@@ -129,7 +129,7 @@
             button3.Name = "button3";
             button3.Size = new Size(100, 28);
             button3.TabIndex = 8;
-            button3.Text = "Press";
+            button3.Text = "Enter";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
