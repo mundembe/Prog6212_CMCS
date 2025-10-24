@@ -1,0 +1,120 @@
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.exe
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.deps.json
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.pdb
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Form1.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\refint\POE_of_Prog.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.pdb
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\ref\POE_of_Prog.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.LoginLecturere.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Adimin.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Admin_DashBoard.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Lecturer_DashBoard.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Registration.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Submit_Claim.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Adimi_Registration.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Admin_Login.resources
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_P.EA940A25.Up2Date
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.exe
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.deps.json
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.runtimeconfig.json
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\POE_of_Prog.pdb
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.csproj.AssemblyReference.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Adimin.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Adimi_Registration.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Admin_DashBoard.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Admin_Login.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Form1.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Lecturer_DashBoard.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.LoginLecturere.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Registration.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.Submit_Claim.resources
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.csproj.GenerateResource.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.GeneratedMSBuildEditorConfig.editorconfig
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.AssemblyInfoInputs.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.AssemblyInfo.cs
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.csproj.CoreCompileInputs.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_P.EA940A25.Up2Date
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\refint\POE_of_Prog.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.pdb
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\POE_of_Prog.genruntimeconfig.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG 2B\POE_of_Prog\POE_of_Prog\obj\Debug\net8.0-windows\ref\POE_of_Prog.dll

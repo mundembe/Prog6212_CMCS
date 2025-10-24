@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AC5F21-B4D7-40F2-A8DF-A02EC426BBD2}|FinalProjectTest1\\FinalProjectTest1.csproj|c:\\users\\rc_student_lab\\source\\repos\\poe_of_prog\\finalprojecttest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AC5F21-B4D7-40F2-A8DF-A02EC426BBD2}|FinalProjectTest1\\FinalProjectTest1.csproj|solutionrelative:finalprojecttest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AC5F21-B4D7-40F2-A8DF-A02EC426BBD2}|FinalProjectTest1\\FinalProjectTest1.csproj|c:\\users\\rc_student_lab\\source\\repos\\poe_of_prog\\finalprojecttest1\\testinfunctionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AC5F21-B4D7-40F2-A8DF-A02EC426BBD2}|FinalProjectTest1\\FinalProjectTest1.csproj|solutionrelative:finalprojecttest1\\testinfunctionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F0BC15-C244-4B4C-BAFF-5DE840A2EC31}|POE_of_Prog\\POE_of_Prog.csproj|c:\\users\\rc_student_lab\\source\\repos\\poe_of_prog\\poe_of_prog\\testinfunctionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F0BC15-C244-4B4C-BAFF-5DE840A2EC31}|POE_of_Prog\\POE_of_Prog.csproj|solutionrelative:poe_of_prog\\testinfunctionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F0BC15-C244-4B4C-BAFF-5DE840A2EC31}|POE_of_Prog\\POE_of_Prog.csproj|C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\poe_of_prog\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F0BC15-C244-4B4C-BAFF-5DE840A2EC31}|POE_of_Prog\\POE_of_Prog.csproj|solutionrelative:poe_of_prog\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F0BC15-C244-4B4C-BAFF-5DE840A2EC31}|POE_of_Prog\\POE_of_Prog.csproj|C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\poe_of_prog\\lecturer_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F0BC15-C244-4B4C-BAFF-5DE840A2EC31}|POE_of_Prog\\POE_of_Prog.csproj|solutionrelative:poe_of_prog\\lecturer_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testinFunctionalities.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\FinalProjectTest1\\testinFunctionalities.cs",
+              "RelativeDocumentMoniker": "FinalProjectTest1\\testinFunctionalities.cs",
+              "ToolTip": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\FinalProjectTest1\\testinFunctionalities.cs",
+              "RelativeToolTip": "FinalProjectTest1\\testinFunctionalities.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:32:50.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\FinalProjectTest1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FinalProjectTest1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\FinalProjectTest1\\UnitTest1.cs",
+              "RelativeToolTip": "FinalProjectTest1\\UnitTest1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:59:27.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testinFunctionalities.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\POE_of_Prog\\testinFunctionalities.cs",
+              "RelativeDocumentMoniker": "POE_of_Prog\\testinFunctionalities.cs",
+              "ToolTip": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\POE_of_Prog\\testinFunctionalities.cs",
+              "RelativeToolTip": "POE_of_Prog\\testinFunctionalities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:29:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin_DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\POE_of_Prog\\Admin_DashBoard.cs",
+              "RelativeDocumentMoniker": "POE_of_Prog\\Admin_DashBoard.cs",
+              "ToolTip": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\POE_of_Prog\\Admin_DashBoard.cs [Design]",
+              "RelativeToolTip": "POE_of_Prog\\Admin_DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:29:47.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lecturer_DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\POE_of_Prog\\Lecturer_DashBoard.cs",
+              "RelativeDocumentMoniker": "POE_of_Prog\\Lecturer_DashBoard.cs",
+              "ToolTip": "C:\\Users\\RC_Student_lab\\source\\repos\\POE_of_Prog\\POE_of_Prog\\Lecturer_DashBoard.cs [Design]",
+              "RelativeToolTip": "POE_of_Prog\\Lecturer_DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:18:56.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
