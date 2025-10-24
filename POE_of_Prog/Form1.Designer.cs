@@ -82,17 +82,17 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(200, 228);
+            label3.Location = new Point(200, 220);
             label3.Name = "label3";
-            label3.Size = new Size(158, 20);
+            label3.Size = new Size(200, 25);
             label3.TabIndex = 3;
-            label3.Text = "Login as Programme ";
+            label3.Text = "Login as Programme";
             label3.ForeColor = Color.FromArgb(51, 51, 51);
             // 
             // button2
             // 
             button2.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(450, 220);
+            button2.Location = new Point(450, 245);
             button2.Name = "button2";
             button2.Size = new Size(150, 40);
             button2.TabIndex = 4;
@@ -107,30 +107,32 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(109, 207);
+            label4.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.Location = new Point(200, 245);
             label4.Name = "label4";
-            label4.Size = new Size(119, 20);
+            label4.Size = new Size(200, 25);
             label4.TabIndex = 5;
-            label4.Text = "Coordinators or";
+            label4.Text = "Coordinator or";
+            label4.ForeColor = Color.FromArgb(51, 51, 51);
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label5.Location = new Point(106, 227);
+            label5.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.Location = new Point(200, 270);
             label5.Name = "label5";
-            label5.Size = new Size(157, 20);
+            label5.Size = new Size(200, 25);
             label5.TabIndex = 6;
-            label5.Text = "/Academic Managers";
+            label5.Text = "Academic Manager";
+            label5.ForeColor = Color.FromArgb(51, 51, 51);
             // 
             // label6
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.Location = new Point(200, 284);
+            label6.Location = new Point(200, 340);
             label6.Name = "label6";
-            label6.Size = new Size(116, 20);
+            label6.Size = new Size(200, 25);
             label6.TabIndex = 7;
             label6.Text = "Create Account";
             label6.ForeColor = Color.FromArgb(51, 51, 51);
@@ -138,7 +140,7 @@
             // button3
             // 
             button3.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button3.Location = new Point(450, 276);
+            button3.Location = new Point(450, 332);
             button3.Name = "button3";
             button3.Size = new Size(150, 40);
             button3.TabIndex = 8;
@@ -153,7 +155,7 @@
             // button4
             // 
             button4.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button4.Location = new Point(30, 410);
+            button4.Location = new Point(30, 430);
             button4.Name = "button4";
             button4.Size = new Size(120, 40);
             button4.TabIndex = 9;
