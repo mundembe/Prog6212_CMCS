@@ -43,53 +43,65 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 18F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0);
-            label1.Location = new Point(45, 18);
+            label1.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(150, 30);
             label1.Name = "label1";
             label1.Size = new Size(557, 32);
             label1.TabIndex = 0;
-            label1.Text = "Welcome to the Contract monthly Claim system";
+            label1.Text = "Contract Monthly Claim System";
+            label1.ForeColor = Color.FromArgb(0, 87, 183); // Professional blue
+            label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(109, 126);
+            label2.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Location = new Point(200, 134);
             label2.Name = "label2";
             label2.Size = new Size(165, 25);
             label2.TabIndex = 1;
             label2.Text = "Login as Lecturer";
+            label2.ForeColor = Color.FromArgb(51, 51, 51);
             // 
             // button1
             // 
             button1.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(357, 126);
+            button1.Location = new Point(450, 126);
             button1.Name = "button1";
-            button1.Size = new Size(100, 29);
+            button1.Size = new Size(150, 40);
             button1.TabIndex = 2;
             button1.Text = "Enter";
-            button1.UseVisualStyleBackColor = true;
+            button1.BackColor = Color.FromArgb(0, 120, 212); // Microsoft Blue
+            button1.ForeColor = Color.White;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.Cursor = Cursors.Hand;
             button1.Click += button1_Click;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(109, 187);
+            label3.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Location = new Point(200, 228);
             label3.Name = "label3";
             label3.Size = new Size(158, 20);
             label3.TabIndex = 3;
             label3.Text = "Login as Programme ";
+            label3.ForeColor = Color.FromArgb(51, 51, 51);
             // 
             // button2
             // 
             button2.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(357, 220);
+            button2.Location = new Point(450, 220);
             button2.Name = "button2";
-            button2.Size = new Size(100, 27);
+            button2.Size = new Size(150, 40);
             button2.TabIndex = 4;
             button2.Text = "Enter";
-            button2.UseVisualStyleBackColor = true;
+            button2.BackColor = Color.FromArgb(0, 120, 212);
+            button2.ForeColor = Color.White;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.FlatAppearance.BorderSize = 0;
+            button2.Cursor = Cursors.Hand;
             button2.Click += button2_Click;
             // 
             // label4
@@ -115,42 +127,50 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.Location = new Point(112, 276);
+            label6.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label6.Location = new Point(200, 284);
             label6.Name = "label6";
             label6.Size = new Size(116, 20);
             label6.TabIndex = 7;
             label6.Text = "Create Account";
+            label6.ForeColor = Color.FromArgb(51, 51, 51);
             // 
             // button3
             // 
             button3.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button3.Location = new Point(357, 276);
+            button3.Location = new Point(450, 276);
             button3.Name = "button3";
-            button3.Size = new Size(100, 28);
+            button3.Size = new Size(150, 40);
             button3.TabIndex = 8;
             button3.Text = "Enter";
-            button3.UseVisualStyleBackColor = true;
+            button3.BackColor = Color.FromArgb(0, 120, 212);
+            button3.ForeColor = Color.White;
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.FlatAppearance.BorderSize = 0;
+            button3.Cursor = Cursors.Hand;
             button3.Click += button3_Click;
             // 
             // button4
             // 
-            button4.BackColor = SystemColors.Window;
-            button4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button4.Location = new Point(11, 325);
+            button4.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.Location = new Point(30, 410);
             button4.Name = "button4";
-            button4.Size = new Size(101, 27);
+            button4.Size = new Size(120, 40);
             button4.TabIndex = 9;
             button4.Text = "Exit";
-            button4.UseVisualStyleBackColor = false;
+            button4.BackColor = Color.FromArgb(209, 209, 209);
+            button4.ForeColor = Color.FromArgb(51, 51, 51);
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.FlatAppearance.BorderSize = 0;
+            button4.Cursor = Cursors.Hand;
             button4.Click += button4_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(642, 424);
+            BackColor = Color.FromArgb(240, 248, 255); // AliceBlue - softer background
+            ClientSize = new Size(800, 500); // Larger window
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(label6);
@@ -162,10 +182,11 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            ForeColor = SystemColors.ActiveCaptionText;
+            ForeColor = Color.FromArgb(47, 79, 79); // DarkSlateGray - better text contrast
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
-            Text = "splashPage";
+            Text = "Contract Monthly Claim System";
+            StartPosition = FormStartPosition.CenterScreen; // Center the form on screen
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
