@@ -72,7 +72,7 @@
             button2.Name = "button2";
             button2.Size = new Size(75, 22);
             button2.TabIndex = 3;
-            button2.Text = "Rset";
+            button2.Text = "Reset";
             button2.UseVisualStyleBackColor = true;
             // 
             // button3

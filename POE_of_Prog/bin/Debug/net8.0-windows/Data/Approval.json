@@ -1,1 +1,1 @@
-[{"ApprovalId":1,"AdminId":1,"ClaimId":1,"Decision":"Approved"},{"ApprovalId":2,"AdminId":2,"ClaimId":2,"Decision":"Rejected"},{"ApprovalId":3,"AdminId":2,"ClaimId":3,"Decision":"Pending"}]
+[{"ApprovalId":1,"AdminId":1,"ClaimId":1,"Decision":"Approved"},{"ApprovalId":2,"AdminId":2,"ClaimId":2,"Decision":"Rejected"},{"ApprovalId":3,"AdminId":2,"ClaimId":3,"Decision":"Pending"},{"ApprovalId":4,"AdminId":1,"ClaimId":4,"Decision":"Approved"}]
